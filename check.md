@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <body>
+    <svg width="100%" height="300px" version="1.1">
+        <rect width="100%" height="100%" fill="purple" />
+        <circle cx="4" cy="5" r="40" fill="black" />
+        <circle cx="300" cy="80" r="40" fill="black" />
+        <circle cx="600" cy="20" r="40" fill="black" />
+        <circle cx="400" cy="250" r="40" fill="black" />   
+    </svg>
+
+  </body>
+
+  <nav class="menu">
+	  <ul>
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./views/two.html">Page Two</a></li>
+        <li><a href="./views/three.html">Page Three</a></li>
+      </ul>
+  </nav>
+  
+  <h1>SVG Animation is easy!</h1>
+
+  <img src="https://github.com/BARTBELTRAN/assignment-5/blob/main/resources/page-three.svg" width="65%"></img>
+
+	
+</html>
